@@ -1,0 +1,5 @@
+version: "3.0.0"
+
+paths:
+  /ping:
+    $ref: "common.yaml#/paths/~1ping"

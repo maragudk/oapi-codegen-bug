@@ -1,0 +1,7 @@
+package: common
+generate:
+  gin-server: true
+  embedded-spec: true
+  strict-server: true
+  models: true
+output: common.gen.go
